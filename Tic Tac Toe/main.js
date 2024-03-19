@@ -11,7 +11,7 @@ const GernaterScore = () => {
   if (currentPlayer === "X") {
     ScoreX.innerText = currentPlayer.length;
   }
-  return;
+ 
 };
 
 const CheckWiner = (thishandel) => {
